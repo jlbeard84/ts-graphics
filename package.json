@@ -1,0 +1,19 @@
+{
+  "name": "ts-graphics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel ./src/**/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlbeard84/ts-graphics.git"
+  },
+  "author": "Josh Beard",
+  "license": "MIT",
+  "homepage": "https://github.com/jlbeard84/ts-graphics#readme",
+  "devDependencies": {
+    "parcel-bundler": "1.10.1",
+    "typescript": "3.1.1"
+  }
+}
